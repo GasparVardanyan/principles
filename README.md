@@ -59,3 +59,4 @@ I am coding in my own coding style.
     * [C++ in Coders at Work](http://harmful.cat-v.org/software/c++/coders-at-work)
     * [Linus Torvalds on C++](http://harmful.cat-v.org/software/c++/linus)
     * [Richard Stallman Agrees That C++ Sucks](http://harmful.cat-v.org/software/c++/rms)
+* [Programming Quotes](http://quotes.cat-v.org/programming/)
