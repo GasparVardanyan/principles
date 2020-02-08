@@ -30,7 +30,7 @@ The KISS principle states that most systems work **best** if they are kept **sim
 >Ingenious ideas are simple. Ingenious software is simple. Simplicity is the heart of the Unix philosophy. The more code lines you have removed, the more progress you have made. As the number of lines of code in your software shrinks, the more skilled you have become and the less your software sucks.
 
 [Website](https://suckless.org/philosophy/)
-### Unix philosophy
+### The Unix philosophy
 The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development.
 The Unix philosophy emphasizes building **simple**, **short**, **clear**, **modular**, and **extensible** code that can be **easily** maintained and repurposed by developers other than its creators. The Unix philosophy favors composability as opposed to monolithic design.
 
