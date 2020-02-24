@@ -35,7 +35,7 @@ The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and 
 The Unix philosophy emphasizes building **simple**, **short**, **clear**, **modular**, and **extensible** code that can be **easily** maintained and repurposed by developers other than its creators. The Unix philosophy favors composability as opposed to monolithic design.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
-### The Elements of Programming Style
+### The Elements of Programming Style - Brian W. Kernighan and P. J. Plauger
 * Write clearly -- don't be too clever.
 * Say what you mean, simply and directly.
 * Use library functions whenever feasible.
@@ -105,11 +105,7 @@ The Unix philosophy emphasizes building **simple**, **short**, **clear**, **modu
 ## Coding style
 I am coding in my own coding style.
 ## See also
-* [Bell Labs](http://doc.cat-v.org/bell_labs/)
-* [Unix](http://doc.cat-v.org/unix/)
-* [Plan9](https://9p.io/plan9/) ([[1]](http://doc.cat-v.org/plan_9/))
-* [9base](https://tools.suckless.org/9base/)
-* [Mk](http://doc.cat-v.org/bell_labs/mk/)
+* [Bell Labs](http://doc.cat-v.org/bell_labs/), [Unix](http://doc.cat-v.org/unix/), [Plan9](https://9p.io/plan9/) ([[1]](http://doc.cat-v.org/plan_9/)), [9base](https://tools.suckless.org/9base/), [The Standard C](http://www.iso-9899.info/wiki/The_Standard), [Mk](http://doc.cat-v.org/bell_labs/mk/)
 * [OpenBSD](https://www.openbsd.org/)
 * [Software that sucks less](https://suckless.org/)
 * Text editors [vi](http://ex-vi.sourceforge.net/), [vis](https://github.com/martanne/vis), [ed](https://github.com/openbsd/src/tree/master/bin/ed), [sam](https://github.com/deadpixi/sam).
