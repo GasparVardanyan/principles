@@ -34,6 +34,10 @@ The KISS principle states that most systems work **best** if they are kept **sim
 The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development.
 The Unix philosophy emphasizes building **simple**, **short**, **clear**, **modular**, and **extensible** code that can be **easily** maintained and repurposed by developers other than its creators. The Unix philosophy favors composability as opposed to monolithic design.
 
+> UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.
+>
+> -- [Dennis Ritchie](http://genius.cat-v.org/dennis-ritchie/)
+
 [Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
 ### The Elements of Programming Style - Brian W. Kernighan and P. J. Plauger
 * Write clearly -- don't be too clever.
