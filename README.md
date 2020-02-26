@@ -109,7 +109,7 @@ The Unix philosophy emphasizes building **simple**, **short**, **clear**, **modu
 ## Coding style
 I am coding in my own coding style.
 ## See also
-* [Bell Labs](http://doc.cat-v.org/bell_labs/), [Unix](http://doc.cat-v.org/unix/), [Plan9](https://9p.io/plan9/) ([[1]](http://doc.cat-v.org/plan_9/)), [9base](https://tools.suckless.org/9base/), [The Standard C](http://www.iso-9899.info/wiki/The_Standard), [Mk](http://doc.cat-v.org/bell_labs/mk/)
+* [Bell Labs](http://doc.cat-v.org/bell_labs/), [Unix](http://doc.cat-v.org/unix/), [Plan9](https://9p.io/plan9/) ([[1]](http://doc.cat-v.org/plan_9/), [[2]](https://tools.suckless.org/9base/), [[3]](https://9fans.github.io/plan9port/)), [The Standard C](http://www.iso-9899.info/wiki/The_Standard), [Mk](http://doc.cat-v.org/bell_labs/mk/)
 * [OpenBSD](https://www.openbsd.org/)
 * [Software that sucks less](https://suckless.org/)
 * Text editors [vi](http://ex-vi.sourceforge.net/), [vis](https://github.com/martanne/vis), [ed](https://github.com/openbsd/src/tree/master/bin/ed), [sam](https://github.com/deadpixi/sam), [acme](http://acme.cat-v.org/).
