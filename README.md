@@ -18,7 +18,7 @@ Gabriel argued that early **Unix** and **C**, developed by **Bell Labs**, are **
 The KISS principle states that most systems work **best** if they are kept **simple** rather than made **complicated**; therefore, **simplicity** should be a **key** goal in design, and unnecessary **complexity** should be **avoided**.
 
 [Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-### The Sucksless' philosophy (manifest)
+### The Suckless' philosophy (manifest)
 >Many (open source) hackers are proud if they achieve large amounts of code, because they believe the more lines of code they've written, the more progress they have made. The more progress they have made, the more skilled they are. This is simply a delusion.
 >
 >Most hackers actually don't care much about code quality. Thus, if they get something working which seems to solve a problem, they stick with it. If this kind of software development is applied to the same source code throughout its entire life-cycle, we're left with large amounts of code, a totally screwed code structure, and a flawed system design. This is because of a lack of conceptual clarity and integrity in the development process.
